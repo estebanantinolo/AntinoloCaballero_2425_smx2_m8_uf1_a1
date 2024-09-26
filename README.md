@@ -1,25 +1,25 @@
 # PrimeraEvaluacio
 
 
-## ¿Qué es una página web?
-**Respuesta**
+## 1. ¿Qué es una página web?
+Es un documento que se crea a través de la programación, se puede introducir texto, imagenes enlaces... Sirve para recaudar y mostrar información, tener servicios para clientes...
 
-## ¿Qué es un sitio web?
-**Respuesta**
+## 2. ¿Qué es un sitio web?
+Un conjunto de páginas web que se pueden visitar por internet.
 
-## ¿Qué es una aplicación web?
-**Respuesta**
+## 3. ¿Qué es una aplicación web?
+Es un programa que se utiliza por un navegador de internet. Por ejemplo, una apliación que te deja enviar/recibir correo.
 
-## ¿Que es una herramienta ofimática?
-**Respuesta**
+## 4. ¿Que es una herramienta ofimática?
+Una herramienta ofimática es una aplicación que se utiliza para crear y editar documentos, presentaciones, hojas de cálculo... Se suele utilizar en trabajos de oficina y trabajos que requieran de almacenamiento de datos u otros usos.
 
-## Herramientas de Google:
+## 5. Herramientas de Google:
 
-## ¿Qué es HTML?
-**Respuesta**
+## 6. ¿Qué es HTML?
+Es un lenguaje que se utiliza para programar páginas web.
 
-## ¿Qué es CSS?
-**Respuesta**
+## 7. ¿Qué es CSS?
+Es un lenguaje para diseñar las páginas web.
 
-## Flujo de trabajo (navegador, petición, servidor y respuesta):
+## 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
