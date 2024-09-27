@@ -14,6 +14,7 @@
 ### Una herramienta ofimática es una aplicación que se utiliza para crear y editar documentos, presentaciones, hojas de cálculo... Se suele utilizar en trabajos de oficina y trabajos que requieran de almacenamiento de datos u otros usos.
 
 ## [5. Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/)
+
 |Aplicaciones |Visto |
 | Google Docs | |
 | Google Slides | |
@@ -21,6 +22,8 @@
 | Google Calendar | |
 | Google meet | |
 | "..." | "..." |
+
+
 
 ## 6. ¿Qué es HTML?
 ### Es un lenguaje que se utiliza para programar páginas web.
