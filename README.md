@@ -34,3 +34,4 @@
 
 ## 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
+![Imagen](https://github.com/estebanantinolo/AntinoloCaballero_2425_smx2_m8_uf1_a1/blob/main/Imagen.png)
