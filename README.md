@@ -20,8 +20,8 @@
 | Google Docs |✅|
 | Google Slides |✅ |
 | Google Sheets |✅ |
-| Google Calendar | |
-| Google meet | |
+| Google Calendar | 📅|
+| Google meet |💻 |
 | ... | ... |
 
 
