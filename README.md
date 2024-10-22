@@ -11,7 +11,7 @@
 ### Es un programa que se utiliza por un navegador de internet. Por ejemplo, una apliación que te deja enviar/recibir correo.
 
 ## 4. ¿Que es una herramienta ofimática?
-### Una herramienta ofimática es una aplicación que se utiliza para crear y editar documentos, presentaciones, hojas de cálculo... Se suele utilizar en trabajos de oficina y trabajos que requieran de almacenamiento de datos u otros usos.
+### Una herramienta ofimática es una aplewsdzicación que se utiliza para crear y editar documentos, presentaciones, hojas de cálculo... Se suele utilizar en trabajos de oficina y trabajos que requieran de almacenamiento de datos u otros usos.
 
 ## 5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/)
 
